@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "311868145418",
+    "firebase_url": "https://quakeshareapp.firebaseio.com",
+    "project_id": "quakeshareapp",
+    "storage_bucket": "quakeshareapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311868145418:android:b32cf1a2a396b0c4",
+        "android_client_info": {
+          "package_name": "nagoya.kyoto.quakeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311868145418-49v7blfu3f67rjrajs99cu14qsa667lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNsZf8Nt1fX4gQ4K3D1untxIvbkSI5Ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
